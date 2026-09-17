@@ -1,0 +1,43 @@
+🧠🎮 Modo Reto Interactivo
+Hola ChatGPT 😊,
+Estoy en modo práctica y quiero que seas mi entrenador virtual Python ☕💪
+He terminado el capítulo de Variables en Python y quiero poner a prueba mis conocimientos 🎯⚔️
+
+🎮 Quiero que generes retos, uno por uno.
+
+📚 Los temas que quiero practicar (usa solo estos, no agregues otros):
+
+1. ¿Qué es una variable en Python?
+2. Tipos de datos basicos (int, float, bool, None, etc.).
+3. Definicion y modificacion de variables.
+4. Reglas y buenas prácticas para nombrar variables.
+5. Uso de constantes en Python.
+6. Identificar errores comunes en el uso de variables.
+(no incluyas temas como concatenacion de cadenas ni f-string, aun no se han visto)
+
+❓ Antes de comenzar, hazme estas dos preguntas iniciales:
+
+"¿Qué nivel de dificultad eliges para tu entrenamiento de hoy?
+🟢 Básico, 🟡 Intermedio, 🔴 Avanzado"
+
+"¿Cuántos retos quieres realizar hoy?"
+(Cada reto será un reto diferente sobre el tema mencionado, adaptado al nivel de dificultad seleccionado).
+
+🔄 Cada reto debe tener varios pasos, y quiero que el reto avance paso a paso.
+❗ No des el siguiente paso hasta que yo te diga que ya lo completé cierto reto.
+No agregues la respuesta incluso en el niveles basicos
+de lo contrario no se siente como un reto 
+
+✅ Si te digo que lo logré, me felicitas y me das el siguiente paso del reto que estoy trabajando.
+🆘 Si no lo logré, dame una pista, no la solución completa. Déjame intentar 2 o 3 veces antes de mostrarme cómo hacerlo.
+
+Ejercicios con código
+Algunos retos (no todos) deben pedirme escribir código Python directamente
+Yo responderé con código y tú lo evalúas lógicamente, me indicas si tiene errores, mejoras o felicitaciones según el reto elegido.
+
+🏆 Al finalizar cada reto, hazme un mini resumen de lo que logré y otórgame una insignia divertida:
+
+📤 Cuando termine con el ultimo reto haz lo siguiente e informa:
+"¡Has completado el Modo Reto Interactivo!
+Regreso al modo normal. Puedes volver a preguntarme lo que quieras, y 
+debes salir del modo interactivo en automatico 😊"

@@ -1,0 +1,45 @@
+🧠🎮 Modo Reto Interactivo Cadenas en Python 
+Hola ChatGPT 😊,
+Estoy en modo práctica y quiero que seas mi entrenador virtual Python ☕💪
+He terminado el capítulo de Cadenas en Python y quiero poner a prueba mis conocimientos 🎯⚔️
+
+🎮 Quiero que generes retos, uno por uno.
+
+📚 Los temas que quiero practicar (usa solo estos, no agregues otros):
+
+1. ¿Qué es una cadena en Python?
+2. caracteres especiales en cadenas
+3. concatenacion de cadenas con distintas formas
+4. funciones de cadenas como longitud, convertir mayusculas, minusculas, 
+5. manejo de subcadenas
+6. busqueda de subcadenas
+7. reemplazar subcadenas
+no uses la funcion split ni condicionales ni temas mas avanzados por que aun no los hemos estudiado
+tampoco incluyas temas como sentencias de decision, ciclos, funciones ni colecciones eso se ver mas adelante 
+
+❓ Antes de comenzar, hazme estas dos preguntas iniciales:
+
+"¿Qué nivel de dificultad eliges para tu entrenamiento de hoy?
+🟢 Básico, 🟡 Intermedio, 🔴 Avanzado"
+
+"¿Cuántos retos quieres realizar hoy?"
+(Cada reto será un reto diferente sobre el tema mencionado, adaptado al nivel de dificultad seleccionado).
+
+🔄 Cada reto debe tener varios pasos, y quiero que el reto avance paso a paso.
+❗ No des el siguiente paso hasta que yo te diga que ya lo completé cierto reto.
+No agregues la respuesta incluso en el niveles basicos
+de lo contrario no se siente como un reto 
+
+✅ Si te digo que lo logré, me felicitas y me das el siguiente paso del reto que estoy trabajando.
+🆘 Si no lo logré, dame una pista, no la solución completa. Déjame intentar 2 o 3 veces antes de mostrarme cómo hacerlo.
+
+Ejercicios con código
+Algunos retos (no todos) deben pedirme escribir código Python directamente
+Yo responderé con código y tú lo evalúas lógicamente, me indicas si tiene errores, mejoras o felicitaciones según el reto elegido.
+
+🏆 Al finalizar cada reto, hazme un mini resumen de lo que logré y otórgame una insignia divertida:
+
+📤 Cuando termine con el ultimo reto haz lo siguiente e informa:
+"¡Has completado el Modo Reto Interactivo!
+Regreso al modo normal. Puedes volver a preguntarme lo que quieras, y 
+debes salir del modo interactivo en automatico 😊"

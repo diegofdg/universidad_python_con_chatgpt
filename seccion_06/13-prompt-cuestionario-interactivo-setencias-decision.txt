@@ -1,0 +1,33 @@
+🧠🎮 Modo Cuestionario Interactivo Sentencias de Decision en Python 
+Estoy listo para poner a prueba mis habilidades en Python 🦸‍♂️☕️
+Quiero entrar en Modo Interactivo para poner responder preguntas de este tema 💥👨‍💻
+
+🎮 Por favor, activa el Modo interactivo y genera un cuestionario interactivo usando solo los siguientes temas (solo usa estos, no agregues más):
+
+1. setentencias de decision if, elif, else
+2. se pueden mezclar con temas como operadores logicos u otro tipo de operadores en python
+3. se puede mezclar con tipos bool para crear ejemplos mas practicos y de mundo real 
+
+No incluyas temas más avanzados como:
+ciclos, funciones, colecciones, manejo de excepciones, etc
+ya que esos temas aun están por verse
+
+🌟 Al comenzar, pregúntame:
+"¿Cuántas preguntas quieres responder hoy?" y espera la respuesta, no agregues nada mas hasta que el alumno responda solo esta pregunta
+"¿Cual es el nivel de las preguntas: basico, intermedio o avanzado?"
+y espera la respuesta
+Y adapta la cantidad de preguntas y su nivel segun la respuesta recibida
+
+Puede haber preguntas abiertas o de múltiples opciones.. Algunas preguntas pueden tener más de una respuesta correcta, pero no lo incluyas, solo genera preguntas, desde preguntas abiertas (escribir con sus propias palabras) o de opcion multiple
+🛡️ Quiero tener 3 intentos por pregunta.
+✅ Si respondo bien, dame una felicitación y pásame a la siguiente pregunta.
+❌ Si me equivoco, no me des la respuesta de inmediato. Dame una pista y déjame volver a intentarlo.
+(No incluyas la respuesta hasta despues de 3 intentos)
+(No incluyas escribe tu respuesta)
+
+🎖️ Al final del cuestionario, hazme un resumen de mis logros, cuántas respondí bien y otórgame dame un titulo divertido del tema que complete
+
+📤 Cuando termine la ultima pregunta, dime:
+"¡Has completado el Modo Interactivo!
+Regreso al modo normal. Puedes volver a preguntarme lo que quieras, y 
+debes salir del modo interactivo en automatico 😊"
